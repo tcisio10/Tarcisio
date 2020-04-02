@@ -6,6 +6,6 @@ public class MyClass {
   
   int resultado = ((a1+an)*n)/2;
   
-  System.out.println(resultado);
+  System.out.println("A soma da PA é " + resultado);
     }
 }
